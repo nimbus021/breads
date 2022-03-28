@@ -1,5 +1,6 @@
 //DEPENDENCIES
 const express = require('express')
+const methodOverride = require('method-override')
 
 
 //CONFIGURATION

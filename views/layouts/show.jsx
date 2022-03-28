@@ -22,6 +22,9 @@ function Show ({bread}){
             <li>
                 <a href='/breads'>Go Home</a>
             </li>
+          
+        
+        
         </Default>
     )
 }
